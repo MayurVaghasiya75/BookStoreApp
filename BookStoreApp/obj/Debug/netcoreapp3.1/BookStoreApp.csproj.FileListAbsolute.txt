@@ -1,0 +1,6 @@
+/Users/parth/Projects/BookStoreApp/BookStoreApp/obj/Debug/netcoreapp3.1/BookStoreApp.AssemblyInfoInputs.cache
+/Users/parth/Projects/BookStoreApp/BookStoreApp/obj/Debug/netcoreapp3.1/BookStoreApp.AssemblyInfo.cs
+/Users/parth/Projects/BookStoreApp/BookStoreApp/obj/Debug/netcoreapp3.1/BookStoreApp.csproj.CoreCompileInputs.cache
+/Users/parth/Projects/BookStoreApp/BookStoreApp/obj/Debug/netcoreapp3.1/BookStoreApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/parth/Projects/BookStoreApp/BookStoreApp/obj/Debug/netcoreapp3.1/BookStoreApp.RazorAssemblyInfo.cache
+/Users/parth/Projects/BookStoreApp/BookStoreApp/obj/Debug/netcoreapp3.1/BookStoreApp.RazorAssemblyInfo.cs
