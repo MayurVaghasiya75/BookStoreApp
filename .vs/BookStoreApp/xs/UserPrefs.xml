@@ -1,21 +1,19 @@
 ﻿<Properties StartupConfiguration="{8B7F8227-E515-46F8-B5AB-FD4D38F15DBE}|BookStoreApp">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookStoreApp/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookStoreApp/Data/EFBookContext.cs">
     <Files>
       <File FileName="BookStoreApp/DAL/Book.cs" Line="11" Column="41" />
       <File FileName="BookStoreApp/DAL/Printer.cs" Line="13" Column="40" />
+      <File FileName="BookStoreApp/Program.cs" Line="17" Column="10" />
       <File FileName="BookStoreApp/Data/EFBookContext.cs" Line="15" Column="51" />
-      <File FileName="BookStoreApp/Startup.cs" Line="29" Column="127" />
-      <File FileName="BookStoreApp/appsettings.json" Line="10" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookStoreApp" expanded="True">
             <Node name="BookStoreApp" expanded="True">
-              <Node name="DAL" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="EFBookContext.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
