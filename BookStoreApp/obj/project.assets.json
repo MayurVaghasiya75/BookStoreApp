@@ -8919,11 +8919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mayur\\Documents\\Visual Studio 2019\\Book Store App Commit\\Creating Connection String\\BookStoreApp\\BookStoreApp\\BookStoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\mayur\\Documents\\Visual Studio 2019\\Book Store App Commit\\Creating Context\\BookStoreApp\\BookStoreApp\\BookStoreApp.csproj",
       "projectName": "BookStoreApp",
-      "projectPath": "C:\\Users\\mayur\\Documents\\Visual Studio 2019\\Book Store App Commit\\Creating Connection String\\BookStoreApp\\BookStoreApp\\BookStoreApp.csproj",
+      "projectPath": "C:\\Users\\mayur\\Documents\\Visual Studio 2019\\Book Store App Commit\\Creating Context\\BookStoreApp\\BookStoreApp\\BookStoreApp.csproj",
       "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mayur\\Documents\\Visual Studio 2019\\Book Store App Commit\\Creating Connection String\\BookStoreApp\\BookStoreApp\\obj\\",
+      "outputPath": "C:\\Users\\mayur\\Documents\\Visual Studio 2019\\Book Store App Commit\\Creating Context\\BookStoreApp\\BookStoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config",
