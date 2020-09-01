@@ -38,12 +38,35 @@ namespace BookStoreApp.Migrations
                     b.Property<string>("Brand")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Model")
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Name")
                         .HasColumnType("TEXT");
 
                     b.HasKey("ID");
 
                     b.ToTable("Printers");
+                });
+
+            modelBuilder.Entity("BookStoreApp.DAL.Scanner", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Brand")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Model")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Scanners");
                 });
 #pragma warning restore 612, 618
         }

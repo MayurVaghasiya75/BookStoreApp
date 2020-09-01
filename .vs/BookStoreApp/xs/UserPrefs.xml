@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{8B7F8227-E515-46F8-B5AB-FD4D38F15DBE}|BookStoreApp">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookStoreApp/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="BookStoreApp/Controllers/BooksController.cs" Line="143" Column="59" />
+      <File FileName="BookStoreApp/Views/Book/Index.cshtml" Line="1" Column="14" />
+      <File FileName="BookStoreApp/Controllers/PrintersController.cs" Line="143" Column="60" />
+      <File FileName="BookStoreApp/Views/Printers/Index.cshtml" Line="11" Column="36" />
+      <File FileName="BookStoreApp/Views/Shared/_Layout.cshtml" Line="15" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookStoreApp" expanded="True">
+            <Node name="BookStoreApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Books" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Printers" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookStoreApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

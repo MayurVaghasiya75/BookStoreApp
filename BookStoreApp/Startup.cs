@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using BookStoreApp.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookStoreApp
 {
@@ -24,6 +26,7 @@ namespace BookStoreApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<EFBookContext>(options => options.UseSqlite(Configuration.GetConnectionString("EFBookContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
