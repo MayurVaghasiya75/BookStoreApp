@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nn9uJ0LawE3C9uvL4X3lxigjgTF6DekrM7KRIJ3Z1snum79G7DbnZZpdfrXos89IFjYfgQLMbxcWWWOAXhTUog==",
+  "dgSpecHash": "Onhw+NtzFNtXUReaCT9HpMyi36aEC38CMNrvvB7QzdS5TVZFeNg801MXJ/JRHxfJL/v9E/cwsgwiZX0luSzKgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mayur\\Documents\\Visual Studio 2019\\Book Store App Commit\\Creating Dependency\\BookStoreApp\\BookStoreApp\\BookStoreApp.csproj",
+  "projectFilePath": "C:\\Users\\mayur\\Documents\\Visual Studio 2019\\Book Store App Commit\\Final Commit\\BookStoreApp\\BookStoreApp\\BookStoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mayur\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\mayur\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
