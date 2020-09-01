@@ -12,6 +12,7 @@ using BookStoreApp.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookStoreApp
+
 {
     public class Startup
     {
